@@ -29,6 +29,8 @@ https://miaoquai.com
 | [openclaw-trending-tracker](https://github.com/jingchang0623-crypto/openclaw-trending-tracker) | 📡 GitHub Trending 追踪器 |
 | [openclaw-marketing-kit](https://github.com/jingchang0623-crypto/openclaw-marketing-kit) | 📈 营销自动化套件 |
 | [openclaw-seo-reporter](https://github.com/jingchang0623-crypto/openclaw-seo-reporter) | 🔎 SEO报告生成器 |
+| [openclaw-session-inspector](https://github.com/jingchang0623-crypto/openclaw-session-inspector) | 🔍 Agent 会话调试分析器 |
+| [openclaw-skills-analyzer](https://github.com/jingchang0623-crypto/openclaw-skills-analyzer) | 📊 Skills 生态分析器 |
 | [awesome-claude-code](https://github.com/jingchang0623-crypto/awesome-claude-code) | 📚 Claude Code 资源合集 |
 
 ---
