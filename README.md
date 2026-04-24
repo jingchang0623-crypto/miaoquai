@@ -31,6 +31,7 @@ https://miaoquai.com
 | [openclaw-seo-reporter](https://github.com/jingchang0623-crypto/openclaw-seo-reporter) | 🔎 SEO报告生成器 |
 | [openclaw-session-inspector](https://github.com/jingchang0623-crypto/openclaw-session-inspector) | 🔍 Agent 会话调试分析器 |
 | [openclaw-skills-analyzer](https://github.com/jingchang0623-crypto/openclaw-skills-analyzer) | 📊 Skills 生态分析器 |
+| [openclaw-agent-templates](https://github.com/jingchang0623-crypto/openclaw-agent-templates) | 🎭 Agent模板库（5套生产级模板） |
 | [awesome-claude-code](https://github.com/jingchang0623-crypto/awesome-claude-code) | 📚 Claude Code 资源合集 |
 
 ---
