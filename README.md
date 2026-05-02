@@ -32,6 +32,7 @@ https://miaoquai.com
 | [openclaw-session-inspector](https://github.com/jingchang0623-crypto/openclaw-session-inspector) | 🔍 Agent 会话调试分析器 |
 | [openclaw-skills-analyzer](https://github.com/jingchang0623-crypto/openclaw-skills-analyzer) | 📊 Skills 生态分析器 |
 | [openclaw-agent-templates](https://github.com/jingchang0623-crypto/openclaw-agent-templates) | 🎭 Agent模板库（5套生产级模板） |
+| [openclaw-skill-quality-analyzer](https://github.com/jingchang0623-crypto/openclaw-skill-quality-analyzer) | 🔍 Skills质量分析器（安全检测） |
 | [awesome-claude-code](https://github.com/jingchang0623-crypto/awesome-claude-code) | 📚 Claude Code 资源合集 |
 
 ---
